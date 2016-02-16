@@ -1,6 +1,6 @@
 import sys
 from lib import append
-
+x = []
 ascii_iphone = '''
      ------------------------
      |                      |
